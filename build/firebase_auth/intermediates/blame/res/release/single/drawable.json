@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_auth\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\c16b5ac4102cba6ce48b384754b574eb\\jetified-play-services-base-16.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    }
+]

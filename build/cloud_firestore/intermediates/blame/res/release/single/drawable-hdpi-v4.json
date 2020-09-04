@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\54e521c45b6f49f8f190c33752c2ab7f\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\54e521c45b6f49f8f190c33752c2ab7f\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\54e521c45b6f49f8f190c33752c2ab7f\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\54e521c45b6f49f8f190c33752c2ab7f\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\54e521c45b6f49f8f190c33752c2ab7f\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\54e521c45b6f49f8f190c33752c2ab7f\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\54e521c45b6f49f8f190c33752c2ab7f\\jetified-play-services-base-17.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\image_picker\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\image_picker\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\image_picker\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\image_picker\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
