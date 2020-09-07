@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\values-fi\\values-fi.xml",
+            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\demologin\\build\\flutter_facebook_login\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fi\\values-fi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\b5029729ee2910051db59fabedceaf5c\\jetified-facebook-login-5.5.1\\res\\values-fi\\values-fi.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\flutter_facebook_login\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fi\\values-fi.xml",
+            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\demologin\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\values-fi\\values-fi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\b5029729ee2910051db59fabedceaf5c\\jetified-facebook-login-5.5.1\\res\\values-fi\\values-fi.xml",

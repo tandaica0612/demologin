@@ -1,30 +1,30 @@
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:23
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:23
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:155
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:155
 -keep class com.facebook.CampaignTrackingReceiver { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:148
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:148
 -keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:57
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:57
 -keep class com.facebook.CustomTabActivity { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:125
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:125
 -keep class com.facebook.CustomTabMainActivity { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:52
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:52
 -keep class com.facebook.FacebookActivity { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:143
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:143
 -keep class com.facebook.internal.FacebookInitProvider { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:126
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:126
 -keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:111
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:111
 -keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:74
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:74
 -keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:119
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:119
 -keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:23
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:23
 -keep class io.flutter.app.FlutterApplication { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:101
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:101
 -keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
-# Referenced at C:\Users\SOFTWARE\Desktop\flutterdemo\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:31
+# Referenced at C:\Users\SOFTWARE\Desktop\demologin\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:31
 -keep class io.instamobile.flutter_login_screen.MainActivity { <init>(); }
 # Referenced at C:\Users\SOFTWARE\.gradle\caches\transforms-2\files-2.1\8ddf9bb24faaeea767a1f5173d735f78\appcompat-1.0.0\res\layout\abc_alert_dialog_button_bar_material.xml:43
 # Referenced at C:\Users\SOFTWARE\.gradle\caches\transforms-2\files-2.1\8ddf9bb24faaeea767a1f5173d735f78\appcompat-1.0.0\res\layout\abc_alert_dialog_material.xml:52

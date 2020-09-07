@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\flutter_facebook_login\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ky\\values-ky.xml",
+            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\demologin\\build\\flutter_facebook_login\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ky\\values-ky.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\8ddf9bb24faaeea767a1f5173d735f78\\appcompat-1.0.0\\res\\values-ky\\values-ky.xml",
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\values-ky\\values-ky.xml",
+            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\demologin\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\values-ky\\values-ky.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\8ddf9bb24faaeea767a1f5173d735f78\\appcompat-1.0.0\\res\\values-ky\\values-ky.xml",

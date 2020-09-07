@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\demologin\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
         "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\demologin\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
         "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\demologin\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\SOFTWARE\\Desktop\\demologin\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
         "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\e7d0ba1a1b4a2bde253166b1e18ecdb5\\core-1.1.0\\res\\drawable\\notification_bg.xml"
     }
 ]

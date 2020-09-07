@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\flutter_facebook_login\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\demologin\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\28cc6abd729e295a7191ba32072ae41a\\media-1.0.0\\res\\values\\values.xml",
@@ -154,7 +154,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\flutter_facebook_login\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\demologin\\build\\flutter_facebook_login\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\28cc6abd729e295a7191ba32072ae41a\\media-1.0.0\\res\\values\\values.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-be\\values-be.xml",
+            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\demologin\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-be\\values-be.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\7e44e6975d31cd8bcef72eb9f0bfd45e\\jetified-play-services-basement-16.0.1\\res\\values-be\\values.xml",
@@ -40,7 +40,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\flutterdemo\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-be\\values-be.xml",
+            "outputFile": "C:\\Users\\SOFTWARE\\Desktop\\demologin\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-be\\values-be.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SOFTWARE\\.gradle\\caches\\transforms-2\\files-2.1\\7e44e6975d31cd8bcef72eb9f0bfd45e\\jetified-play-services-basement-16.0.1\\res\\values-be\\values.xml",

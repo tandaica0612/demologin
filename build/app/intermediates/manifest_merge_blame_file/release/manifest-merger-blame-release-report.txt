@@ -6,16 +6,16 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml
+8-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml
+9-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-11-->[:image_picker] C:\Users\SOFTWARE\Desktop\flutterdemo\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:5-80
-11-->[:image_picker] C:\Users\SOFTWARE\Desktop\flutterdemo\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:22-77
+11-->[:image_picker] C:\Users\SOFTWARE\Desktop\demologin\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:5-80
+11-->[:image_picker] C:\Users\SOFTWARE\Desktop\demologin\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:7:22-77
 12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
-12-->[:image_picker] C:\Users\SOFTWARE\Desktop\flutterdemo\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:5-81
-12-->[:image_picker] C:\Users\SOFTWARE\Desktop\flutterdemo\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:22-78
+12-->[:image_picker] C:\Users\SOFTWARE\Desktop\demologin\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:5-81
+12-->[:image_picker] C:\Users\SOFTWARE\Desktop\demologin\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:22-78
 13    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 14-->[com.google.firebase:firebase-storage:17.0.0] C:\Users\SOFTWARE\.gradle\caches\transforms-2\files-2.1\6636d1ab8c226280537fdd833f577dc3\jetified-firebase-storage-17.0.0\AndroidManifest.xml:26:5-79
@@ -31,44 +31,44 @@
 21         FlutterApplication and put your custom class here.
 22    -->
 23    <application
-23-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:8:5-53:19
+23-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:8:5-53:19
 24        android:name="io.flutter.app.FlutterApplication"
-24-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:9:9-57
+24-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:9:9-57
 25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 25-->[androidx.core:core:1.1.0] C:\Users\SOFTWARE\.gradle\caches\transforms-2\files-2.1\e7d0ba1a1b4a2bde253166b1e18ecdb5\core-1.1.0\AndroidManifest.xml:24:18-86
 26        android:icon="@mipmap/ic_launcher"
-26-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:10:9-43
+26-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:10:9-43
 27        android:label="Flutter Login Screen"
-27-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:11:9-45
+27-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:11:9-45
 28        android:requestLegacyExternalStorage="true"
-28-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:12:9-52
+28-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:12:9-52
 29        android:roundIcon="@mipmap/ic_launcher_round"
-29-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:13:9-54
+29-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:13:9-54
 30        android:supportsRtl="true" >
 30-->[com.facebook.android:facebook-login:5.5.1] C:\Users\SOFTWARE\.gradle\caches\transforms-2\files-2.1\b5029729ee2910051db59fabedceaf5c\jetified-facebook-login-5.5.1\AndroidManifest.xml:28:18-44
 31        <activity
-31-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:14:9-25:20
+31-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:14:9-25:20
 32            android:name="io.instamobile.flutter_login_screen.MainActivity"
-32-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:15:13-41
+32-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:15:13-41
 33            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-33-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:16:13-163
+33-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:16:13-163
 34            android:hardwareAccelerated="true"
-34-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:17:13-47
+34-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:17:13-47
 35            android:launchMode="singleTop"
-35-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:18:13-43
+35-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:18:13-43
 36            android:theme="@style/LaunchTheme"
-36-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:19:13-47
+36-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:19:13-47
 37            android:windowSoftInputMode="adjustResize" >
-37-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:20:13-55
+37-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:20:13-55
 38            <intent-filter>
-38-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:21:13-24:29
+38-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:21:13-24:29
 39                <action android:name="android.intent.action.MAIN" />
-39-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:22:17-69
-39-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:22:25-66
+39-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:22:17-69
+39-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:22:25-66
 40
 41                <category android:name="android.intent.category.LAUNCHER" />
-41-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:23:17-77
-41-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:23:27-74
+41-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:23:17-77
+41-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:23:27-74
 42            </intent-filter>
 43        </activity>
 44        <!--
@@ -76,86 +76,86 @@
 46             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 47        -->
 48        <meta-data
-48-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:28:9-30:33
+48-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:28:9-30:33
 49            android:name="flutterEmbedding"
-49-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:29:13-44
+49-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:29:13-44
 50            android:value="2" />
-50-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:30:13-30
+50-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:30:13-30
 51
 52        <activity
-52-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:32:9-35:48
+52-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:32:9-35:48
 53            android:name="com.facebook.FacebookActivity"
-53-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:33:13-57
+53-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:33:13-57
 54            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-54-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:34:13-96
+54-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:34:13-96
 55            android:label="@string/app_name"
-55-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:35:13-45
+55-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:35:13-45
 56            android:theme="@style/com_facebook_activity_theme" />
 56-->[com.facebook.android:facebook-common:5.5.1] C:\Users\SOFTWARE\.gradle\caches\transforms-2\files-2.1\432ea2de81cdab94b37f59d60772c3c3\jetified-facebook-common-5.5.1\AndroidManifest.xml:32:13-63
 57        <activity
-57-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:36:9-47:20
+57-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:36:9-47:20
 58            android:name="com.facebook.CustomTabActivity"
-58-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:37:13-58
+58-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:37:13-58
 59            android:exported="true" >
-59-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:38:13-36
+59-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:38:13-36
 60            <intent-filter>
-60-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:39:13-46:29
+60-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:39:13-46:29
 61                <action android:name="android.intent.action.VIEW" />
-61-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:40:17-69
-61-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:40:25-66
+61-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:40:17-69
+61-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:40:25-66
 62
 63                <category android:name="android.intent.category.DEFAULT" />
-63-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:42:17-76
-63-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:42:27-73
+63-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:42:17-76
+63-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:42:27-73
 64                <category android:name="android.intent.category.BROWSABLE" />
-64-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:43:17-78
-64-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:43:27-75
+64-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:43:17-78
+64-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:43:27-75
 65
 66                <data android:scheme="@string/fb_login_protocol_scheme" />
-66-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:45:17-75
-66-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:45:23-72
+66-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:45:17-75
+66-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:45:23-72
 67            </intent-filter>
 68        </activity>
 69
 70        <meta-data
-70-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:49:9-51:55
+70-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:49:9-51:55
 71            android:name="com.facebook.sdk.ApplicationId"
-71-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:50:13-58
+71-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:50:13-58
 72            android:value="@string/facebook_app_id" />
-72-->C:\Users\SOFTWARE\Desktop\flutterdemo\android\app\src\main\AndroidManifest.xml:51:13-52
+72-->C:\Users\SOFTWARE\Desktop\demologin\android\app\src\main\AndroidManifest.xml:51:13-52
 73
 74        <service
-74-->[:firebase_storage] C:\Users\SOFTWARE\Desktop\flutterdemo\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+74-->[:firebase_storage] C:\Users\SOFTWARE\Desktop\demologin\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
 75            android:name="com.google.firebase.components.ComponentDiscoveryService"
-75-->[:firebase_storage] C:\Users\SOFTWARE\Desktop\flutterdemo\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
+75-->[:firebase_storage] C:\Users\SOFTWARE\Desktop\demologin\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
 76            android:directBootAware="true"
 76-->[com.google.firebase:firebase-common:19.3.0] C:\Users\SOFTWARE\.gradle\caches\transforms-2\files-2.1\d15d73b8c1095dbcb95d3a9acd49040b\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
 77            android:exported="false" >
 77-->[com.google.firebase:firebase-firestore:21.3.0] C:\Users\SOFTWARE\.gradle\caches\transforms-2\files-2.1\e27885e3928d00fb6505d38880d20406\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:19:13-37
 78            <meta-data
-78-->[:firebase_storage] C:\Users\SOFTWARE\Desktop\flutterdemo\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+78-->[:firebase_storage] C:\Users\SOFTWARE\Desktop\demologin\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 79                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-79-->[:firebase_storage] C:\Users\SOFTWARE\Desktop\flutterdemo\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:10:17-126
+79-->[:firebase_storage] C:\Users\SOFTWARE\Desktop\demologin\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:10:17-126
 80                android:value="com.google.firebase.components.ComponentRegistrar" />
-80-->[:firebase_storage] C:\Users\SOFTWARE\Desktop\flutterdemo\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+80-->[:firebase_storage] C:\Users\SOFTWARE\Desktop\demologin\build\firebase_storage\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 81            <meta-data
-81-->[:cloud_firestore] C:\Users\SOFTWARE\Desktop\flutterdemo\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+81-->[:cloud_firestore] C:\Users\SOFTWARE\Desktop\demologin\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 82                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
-82-->[:cloud_firestore] C:\Users\SOFTWARE\Desktop\flutterdemo\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-133
+82-->[:cloud_firestore] C:\Users\SOFTWARE\Desktop\demologin\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-133
 83                android:value="com.google.firebase.components.ComponentRegistrar" />
-83-->[:cloud_firestore] C:\Users\SOFTWARE\Desktop\flutterdemo\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+83-->[:cloud_firestore] C:\Users\SOFTWARE\Desktop\demologin\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 84            <meta-data
-84-->[:firebase_auth] C:\Users\SOFTWARE\Desktop\flutterdemo\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+84-->[:firebase_auth] C:\Users\SOFTWARE\Desktop\demologin\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 85                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
-85-->[:firebase_auth] C:\Users\SOFTWARE\Desktop\flutterdemo\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-122
+85-->[:firebase_auth] C:\Users\SOFTWARE\Desktop\demologin\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-122
 86                android:value="com.google.firebase.components.ComponentRegistrar" />
-86-->[:firebase_auth] C:\Users\SOFTWARE\Desktop\flutterdemo\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+86-->[:firebase_auth] C:\Users\SOFTWARE\Desktop\demologin\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 87            <meta-data
-87-->[:firebase_core] C:\Users\SOFTWARE\Desktop\flutterdemo\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+87-->[:firebase_core] C:\Users\SOFTWARE\Desktop\demologin\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 88                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
-88-->[:firebase_core] C:\Users\SOFTWARE\Desktop\flutterdemo\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-123
+88-->[:firebase_core] C:\Users\SOFTWARE\Desktop\demologin\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-123
 89                android:value="com.google.firebase.components.ComponentRegistrar" />
-89-->[:firebase_core] C:\Users\SOFTWARE\Desktop\flutterdemo\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+89-->[:firebase_core] C:\Users\SOFTWARE\Desktop\demologin\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 90            <meta-data
 90-->[com.google.firebase:firebase-storage:17.0.0] C:\Users\SOFTWARE\.gradle\caches\transforms-2\files-2.1\6636d1ab8c226280537fdd833f577dc3\jetified-firebase-storage-17.0.0\AndroidManifest.xml:31:13-33:85
 91                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
@@ -177,21 +177,21 @@
 99        </service>
 100
 101        <provider
-101-->[:image_picker] C:\Users\SOFTWARE\Desktop\flutterdemo\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:11:9-19:20
+101-->[:image_picker] C:\Users\SOFTWARE\Desktop\demologin\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:11:9-19:20
 102            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-102-->[:image_picker] C:\Users\SOFTWARE\Desktop\flutterdemo\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:12:13-82
+102-->[:image_picker] C:\Users\SOFTWARE\Desktop\demologin\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:12:13-82
 103            android:authorities="io.instamobile.flutter.login.android.flutter.image_provider"
-103-->[:image_picker] C:\Users\SOFTWARE\Desktop\flutterdemo\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:13:13-74
+103-->[:image_picker] C:\Users\SOFTWARE\Desktop\demologin\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:13:13-74
 104            android:exported="false"
-104-->[:image_picker] C:\Users\SOFTWARE\Desktop\flutterdemo\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+104-->[:image_picker] C:\Users\SOFTWARE\Desktop\demologin\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
 105            android:grantUriPermissions="true" >
-105-->[:image_picker] C:\Users\SOFTWARE\Desktop\flutterdemo\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:15:13-47
+105-->[:image_picker] C:\Users\SOFTWARE\Desktop\demologin\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:15:13-47
 106            <meta-data
-106-->[:image_picker] C:\Users\SOFTWARE\Desktop\flutterdemo\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:16:13-18:75
+106-->[:image_picker] C:\Users\SOFTWARE\Desktop\demologin\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:16:13-18:75
 107                android:name="android.support.FILE_PROVIDER_PATHS"
-107-->[:image_picker] C:\Users\SOFTWARE\Desktop\flutterdemo\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:17:17-67
+107-->[:image_picker] C:\Users\SOFTWARE\Desktop\demologin\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:17:17-67
 108                android:resource="@xml/flutter_image_picker_file_paths" />
-108-->[:image_picker] C:\Users\SOFTWARE\Desktop\flutterdemo\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:18:17-72
+108-->[:image_picker] C:\Users\SOFTWARE\Desktop\demologin\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:18:17-72
 109        </provider>
 110
 111        <activity
